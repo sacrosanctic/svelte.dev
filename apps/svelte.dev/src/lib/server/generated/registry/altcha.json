@@ -1,15 +1,17 @@
 {
-	"name": "altcha",
-	"npm_description": "Privacy-first CAPTCHA widget, compliant with global regulations (GDPR/HIPAA/CCPA/LGDP/DPDPA/PIPL) and WCAG accessible. No tracking, self-verifying.",
-	"repo_url": "https://github.com/altcha-org/altcha",
-	"authors": ["ovx"],
-	"homepage": "https://altcha.org",
-	"version": "3.5.0",
-	"downloads": 271031,
-	"github_stars": 2860,
-	"updated": "2026-10-22T04:43:02.070Z",
-	"svelte_range": "^5.57.0",
-	"typescript": true,
-	"runes": false,
-	"last_rune_check_version": "1.4.2"
+  "name": "altcha",
+  "npm_description": "Privacy-first CAPTCHA widget, compliant with global regulations (GDPR/HIPAA/CCPA/LGDP/DPDPA/PIPL) and WCAG accessible. No tracking, self-verifying.",
+  "repo_url": "https://github.com/altcha-org/altcha",
+  "authors": [
+    "ovx"
+  ],
+  "homepage": "https://altcha.org",
+  "version": "3.6.0",
+  "downloads": 319725,
+  "github_stars": 2906,
+  "updated": "2026-11-12T03:50:57.539Z",
+  "svelte_range": "^5.57.0",
+  "typescript": true,
+  "runes": false,
+  "last_rune_check_version": "1.4.2"
 }

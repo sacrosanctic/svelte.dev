@@ -1,15 +1,19 @@
 {
-	"name": "@sveltejs/adapter-node",
-	"npm_description": "Adapter for SvelteKit apps that generates a standalone Node server",
-	"repo_url": "https://github.com/sveltejs/kit",
-	"authors": ["rich_harris", "svelte-admin", "conduitry"],
-	"homepage": "https://svelte.dev/docs/kit/adapter-node",
-	"version": "6.0.1",
-	"downloads": 1486082,
-	"github_stars": 20836,
-	"updated": "2026-10-29T23:47:49.439Z",
-	"kit_range": "^3.0.0-next.0",
-	"typescript": true,
-	"runes": false,
-	"last_rune_check_version": "5.2.12"
+  "name": "@sveltejs/adapter-node",
+  "npm_description": "Adapter for SvelteKit apps that generates a standalone Node server",
+  "repo_url": "https://github.com/sveltejs/kit",
+  "authors": [
+    "rich_harris",
+    "svelte-admin",
+    "conduitry"
+  ],
+  "homepage": "https://svelte.dev/docs/kit/adapter-node",
+  "version": "6.0.2",
+  "downloads": 1643634,
+  "github_stars": 20836,
+  "updated": "2026-11-10T09:11:19.577Z",
+  "kit_range": "^3.0.0-next.0",
+  "typescript": true,
+  "runes": false,
+  "last_rune_check_version": "5.2.12"
 }
